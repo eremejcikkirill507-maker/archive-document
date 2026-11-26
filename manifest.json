@@ -1,0 +1,128 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/manifest.json",
+"@type": "sc:Manifest",
+"label": "Архивный документ",
+"sequences": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/sequence/normal",
+"@type": "sc:Sequence",
+"canvases": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/1",
+"@type": "sc:Canvas",
+"label": "Страница 1",
+"width": 1654,
+"height": 2339,
+"images": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/annotation/1",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://raw.githubusercontent.com/eremejcikkirill507-maker/archive-document/main/%D0%90%D0%BA%D1%82.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1654,
+"height": 2339
+},
+"on": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/1"
+}
+]
+},
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/2",
+"@type": "sc:Canvas",
+"label": "Страница 2",
+"width": 1654,
+"height": 2339,
+"images": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/annotation/2",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://raw.githubusercontent.com/eremejcikkirill507-maker/archive-document/main/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%20%D0%BE%20%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%B5%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1654,
+"height": 2339
+},
+"on": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/2"
+}
+]
+},
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/3",
+"@type": "sc:Canvas",
+"label": "Страница 3",
+"width": 1654,
+"height": 2339,
+"images": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/annotation/3",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://raw.githubusercontent.com/eremejcikkirill507-maker/archive-document/main/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%B0.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1654,
+"height": 2339
+},
+"on": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/3"
+}
+]
+},
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/4",
+"@type": "sc:Canvas",
+"label": "Страница 4",
+"width": 1654,
+"height": 2339,
+"images": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/annotation/4",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://raw.githubusercontent.com/eremejcikkirill507-maker/archive-document/main/%D0%90%D0%BA%D1%82.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1654,
+"height": 2339
+},
+"on": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/4"
+}
+]
+},
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/5",
+"@type": "sc:Canvas",
+"label": "Страница 5",
+"width": 1654,
+"height": 2339,
+"images": [
+{
+"@id": "https://github.com/eremejcikkirill507-maker/archive-document/annotation/5",
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://raw.githubusercontent.com/eremejcikkirill507-maker/archive-document/main/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%20%D0%BE%20%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%B5%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1654,
+"height": 2339
+},
+"on": "https://github.com/eremejcikkirill507-maker/archive-document/canvas/5"
+}
+]
+}
+]
+}
+]
+}
+Copy
+Ask Qwen
+Explain
+Translate(en-US)
